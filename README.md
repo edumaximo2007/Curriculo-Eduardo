@@ -1,1 +1,1 @@
-# Curriculo-Eeduardo
+# Curriculo-Eduardo
