@@ -1,11 +1,11 @@
-.medio{
+.ensino{
     display: flex;
     justify-content: space-between;
 }
 
 
 @media screen and (max-width: 600px) {
-    .medio{
+    .ensino{
         flex-direction: column;
     }
 }
